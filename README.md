@@ -85,7 +85,8 @@ Prompt engineering is the practice of designing and refining input prompts to gu
  1. Improves Response Quality
  2. Reduces Ambiguity & Misinterpretation
  3. Enhances AI Customization & Task Efficiency
- 4. Essential for AI-Assisted Automation & Business Use Cases
+ 4. 
+ 5. Essential for AI-Assisted Automation & Business Use Cases
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt: Show me how to code using Java, I only know Python
 Improved prompt: Explain to me using a code written in python how I can write the same code in Java which performs the same function
